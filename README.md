@@ -1,2 +1,2 @@
 # Analog_clock
-Analog clock vreated using Python with Pygame
+Analog clock created using Python with Pygame
